@@ -1,0 +1,1 @@
+package com.example.dodo.revisaofragment;/** * Created by dodo on 04/06/16. */public interface CliqueLista {    void clicou (String time);}
